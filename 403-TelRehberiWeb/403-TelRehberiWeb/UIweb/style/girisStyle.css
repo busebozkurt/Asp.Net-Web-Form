@@ -1,0 +1,28 @@
+﻿        body {
+            background-color:#e7d1f6 ;            
+        }
+        table input {
+            border-radius: 5px;
+            height: 40px;
+            border-color: #8f779f;
+            padding-left: 10px;
+        }
+        #girisDiv {
+            margin-top: 10% !important;
+        }
+        #girisField {
+            width: 360px;
+            border-radius: 20px;
+            border-color: #8f779f;
+            background-color:#c0a1d4 ;
+            height:250px;            
+        }
+        #girisDiv h3{
+            padding-bottom:15px;
+            font-family:sans-serif;
+            color:#3e2e49;
+        }
+       #mesaj
+        {
+            color:red;
+        }

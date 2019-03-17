@@ -1,0 +1,80 @@
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\ApplicationInsights.config
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\csc.exe
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\vbc.exe
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\UIweb.dll.config
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\UIweb.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\UIweb.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.AI.Web.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.AI.Web.xml
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\obj\Debug\UIweb.csprojResolveAssemblyReference.cache
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\obj\Debug\UIweb.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\obj\Debug\UIweb.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\BusinessLogicLayer.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Entities.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\DatabaseLogicLayer.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\BusinessLogicLayer.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\Entities.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UIweb\bin\DatabaseLogicLayer.pdb
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\ApplicationInsights.config
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\csc.exe
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\vbc.exe
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\UIweb.dll.config
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\UIweb.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\UIweb.pdb
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\BusinessLogicLayer.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Entities.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.AI.Web.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\DatabaseLogicLayer.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\BusinessLogicLayer.pdb
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Entities.pdb
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.AI.Web.xml
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\bin\DatabaseLogicLayer.pdb
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\obj\Debug\UIweb.csprojAssemblyReference.cache
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\obj\Debug\UIweb.csproj.CoreCompileInputs.cache
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\obj\Debug\UIweb.csproj.CopyComplete
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\obj\Debug\UIweb.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\UIweb\obj\Debug\UIweb.pdb

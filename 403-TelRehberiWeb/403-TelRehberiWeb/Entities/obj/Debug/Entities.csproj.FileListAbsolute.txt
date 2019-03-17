@@ -1,0 +1,11 @@
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\Entities\bin\Debug\Entities.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\Entities\bin\Debug\Entities.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\Entities\obj\Debug\Entities.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\Entities\obj\Debug\Entities.pdb
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\Entities\bin\Debug\Entities.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\Entities\bin\Debug\Entities.pdb
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\Entities\obj\Debug\Entities.dll
+C:\Users\buse_\Desktop\SmartPro\403-TelRehberiWeb\403-TelRehberiWeb\Entities\obj\Debug\Entities.pdb

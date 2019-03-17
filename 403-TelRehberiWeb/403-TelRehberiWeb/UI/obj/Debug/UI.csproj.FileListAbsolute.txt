@@ -1,0 +1,32 @@
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\bin\Debug\UI.exe.config
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\bin\Debug\UI.exe
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\bin\Debug\UI.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\bin\Debug\BusinessLogicLayer.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\bin\Debug\Entities.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\bin\Debug\DatabaseLogicLayer.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\bin\Debug\Entities.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\bin\Debug\DatabaseLogicLayer.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\obj\Debug\UI.KullaniciGiris.resources
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\obj\Debug\UI.exe
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\obj\Debug\UI.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi\UI\obj\Debug\UI.AnaForm.resources
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\bin\Debug\UI.exe.config
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\obj\Debug\UI.exe
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\obj\Debug\UI.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\bin\Debug\UI.exe
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\bin\Debug\UI.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\bin\Debug\BusinessLogicLayer.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\bin\Debug\Entities.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\bin\Debug\DatabaseLogicLayer.dll
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\bin\Debug\Entities.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\bin\Debug\DatabaseLogicLayer.pdb
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\obj\Debug\UI.AnaForm.resources
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\obj\Debug\UI.KullaniciGiris.resources
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\fatma.eseli\Desktop\403-TelRehberi - Kopya\UI\obj\Debug\UI.csproj.GenerateResource.Cache
